@@ -3,6 +3,7 @@ SITENAME = 'Lycéens au cinéma'
 SITEURL = ""
 
 PATH = "content"
+THEME = "themes/sam"
 
 TIMEZONE = 'Europe/Paris'
 
