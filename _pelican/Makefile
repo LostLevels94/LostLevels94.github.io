@@ -61,8 +61,6 @@ github: clean publish
 	git add -A
 	git commit -m "mise à jour"
 	git push origin $(GITHUB_PAGES_BRANCH)
-	ghp-import -m "$(GITHUB_PAGES_COMMIT_MESSAGE)" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)" --no-jekyll
-	git push origin $(GITHUB_PAGES_BRANCH)
 
 
 .PHONY: help clean devserver publish github
