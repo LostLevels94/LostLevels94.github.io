@@ -46,6 +46,9 @@ help:
 clean:
 	rm -rf "$(OUTPUTDIR)"/feeds
 	rm -rf "$(OUTPUTDIR)"/theme
+	rm -rf "$(OUTPUTDIR)"/author
+	rm -rf "$(OUTPUTDIR)"/category
+	rm -rf "$(OUTPUTDIR)"/pages
 	rm -rf "$(OUTPUTDIR)"/**.html
 
 devserver:
@@ -54,9 +57,12 @@ devserver:
 publish:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(PUBLISHCONF)" $(PELICANOPTS)
 
-github: publish
+github: clean publish
+	git add -A
+	git commit -m "mise à jour"
+	git push origin $(GITHUB_PAGES_BRANCH)
 	ghp-import -m "$(GITHUB_PAGES_COMMIT_MESSAGE)" -b $(GITHUB_PAGES_BRANCH) "$(OUTPUTDIR)" --no-jekyll
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 
-.PHONY: html help clean regenerate serve serve-global devserver devserver-global publish github
+.PHONY: help clean devserver publish github

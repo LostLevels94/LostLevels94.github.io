@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lycéens au cinéma - misc</title><link href="/" rel="alternate"></link><link href="/feeds/misc.atom.xml" rel="self"></link><id>/</id><updated>2025-05-25T18:34:00+02:00</updated><entry><title>Mon premier article</title><link href="/mon-premier-article.html" rel="alternate"></link><published>2025-05-25T18:34:00+02:00</published><updated>2025-05-25T18:34:00+02:00</updated><author><name>Samuel</name></author><id>tag:None,2025-05-25:/mon-premier-article.html</id><content type="html">&lt;p&gt;Hello !&lt;/p&gt;
+&lt;p&gt;Ceci est mon premier article&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;une&lt;/li&gt;
+&lt;li&gt;liste&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;et&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;une&lt;/li&gt;
+&lt;li&gt;liste&lt;/li&gt;
+&lt;li&gt;à&lt;/li&gt;
+&lt;li&gt;numéros&lt;/li&gt;
+&lt;/ol&gt;</content><category term="misc"></category></entry></feed>
