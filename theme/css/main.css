@@ -457,8 +457,8 @@ a {
 }
 
 a:hover {
-  color: #fbcf0b
-  text-decoration: underline
+  color: #fbcf0b;
+  text-decoration: underline;
 body {
   margin: 0;
   padding: 0;
