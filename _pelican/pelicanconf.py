@@ -18,10 +18,8 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+    ("Cité scolaire Hector Berlioz", "http://www.cite-scolaire-berlioz.org/"),
+    ("CNC", "https://www.cnc.fr/"),
 )
 
 # Social widget
