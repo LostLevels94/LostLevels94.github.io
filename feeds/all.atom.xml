@@ -1,20 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Lycéens au cinéma</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2025-05-25T18:34:00+02:00</updated><entry><title>Mon premier article</title><link href="/mon-premier-article.html" rel="alternate"></link><published>2025-05-25T18:34:00+02:00</published><updated>2025-05-25T18:34:00+02:00</updated><author><name>Samuel</name></author><id>tag:None,2025-05-25:/mon-premier-article.html</id><content type="html">&lt;p&gt;Hello !&lt;/p&gt;
-&lt;p&gt;Ceci est mon premier article&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;une&lt;/li&gt;
-&lt;li&gt;liste&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;et&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;une&lt;/li&gt;
-&lt;li&gt;liste&lt;/li&gt;
-&lt;li&gt;à&lt;/li&gt;
-&lt;li&gt;numéros&lt;/li&gt;
-&lt;/ol&gt;</content><category term="misc"></category></entry><entry><title>Texte de devdan</title><link href="/texte-de-devdan.html" rel="alternate"></link><published>2025-05-02T14:51:00+02:00</published><updated>2025-05-02T14:51:00+02:00</updated><author><name>Samuel</name></author><id>tag:None,2025-05-02:/texte-de-devdan.html</id><content type="html">&lt;p&gt;&lt;img alt="screen.png" src="images/screen.png"&gt;&lt;/p&gt;
-&lt;p&gt;jfigeyikgshigshg
-ildfjisljfhisljf
-hfqhjkfqhsjkfsh
-hfqsikhkhfki
-sjehfukgukighukghskghkghkghkghgr
-gjklhkljhrjkhtjhgjhj&lt;/p&gt;</content><category term="Project"></category></entry><entry><title>Bande-dessinée</title><link href="/bande-dessinee.html" rel="alternate"></link><published>2025-05-02T14:50:00+02:00</published><updated>2025-05-02T14:50:00+02:00</updated><author><name>Samuel</name></author><id>tag:None,2025-05-02:/bande-dessinee.html</id><content type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;</content><category term="Project"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lycéens au cinéma</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2025-06-02T11:45:09Z</updated></feed>
