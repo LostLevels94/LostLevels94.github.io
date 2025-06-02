@@ -1,7 +1,7 @@
 ---
-Name: Proposition du groupe 8
-Date: 2025-06-02 11:26
-Category: Les lumières de la ville
+title: Proposition du groupe 8
+date: 2025-06-02 11:26
+category: Les lumières de la ville
 ---
 Après être sorti de prison, Charlot part retrouver sa marchande de fleurs. De toute évidence, il la reconnaît ; mais cette dernière, qui n'a recouvert la vue il y a quelque temps de cela, le voit comme un simple mendiant et lui propose aimablement des fleurs.
 

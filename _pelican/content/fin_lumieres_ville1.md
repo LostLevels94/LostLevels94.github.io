@@ -1,9 +1,9 @@
 ---
 
-Title: Proposition du groupe 1
-Date: 2025-06-02 10:40
-Author: Elsa Levy, Juliane Petit, Noé Goldshmit, Laura Delahaye
-Category: Les lumières de la ville
+title: Proposition du groupe 1
+date: 2025-06-02 10:40
+author: Elsa Levy, Juliane Petit, Noé Goldshmit, Laura Delahaye
+category: Les lumières de la ville
 
 ---
 
