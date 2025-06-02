@@ -1,10 +1,8 @@
 ---
-
 title: Proposition du groupe 1
 date: 2025-06-02 10:40
 author: Elsa Levy, Juliane Petit, Noé Goldshmit, Laura Delahaye
 category: Les lumières de la ville
-
 ---
 
 La scène prend place avant que Charlot et la fille se reconnaissent. Charlot est dans la rue et rencontre son ami ivre, ils s'enlacent.
