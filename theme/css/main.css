@@ -1,12 +1,5 @@
 @import url("pygment.css");
 
-a {
-  color: #3498db;
-}
-
-a:hover {
-  color: #fbcf0b
-  text-decoration: underline
 body {
   margin: 0;
   padding: 0;
@@ -457,4 +450,19 @@ ul.pagination li {
 
 ul.pagination li.active {
   font-weight: bold;
+}
+
+a {
+  color: #3498db;
+}
+
+a:hover {
+  color: #fbcf0b
+  text-decoration: underline
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: "Roboto Slab", serif;
+  color: #333333;
 }
