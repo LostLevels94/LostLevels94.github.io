@@ -1,10 +1,24 @@
 @import url("pygment.css");
+@font-face {
+    font-family: inter;
+    src: url(fonts/inter.ttf);
+}
+
+@font-face {
+    font-family: title;
+    src: url(fonts/title.ttf);
+}
+
+@font-face {
+    font-family: category;
+    src: url(fonts/category.ttf);
+}
 
 body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: "Roboto Slab", serif;
+  font-family: inter;
   color: #333333;
 }
 
@@ -13,9 +27,12 @@ h2,
 h3,
 h4,
 h5,
-h6,
+h6 {
+font-family: title
+}
+
 time {
-  font-family: "Ruda", sans-serif;
+  font-family: category, sans-serif;
 }
 
 #container {
@@ -77,7 +94,7 @@ time {
 #container nav {
   border-bottom: solid 3px #cecece;
   padding-bottom: 0.5em;
-  font-family: "Ruda", sans-serif;
+  font-family: inter, sans-serif;
 }
 
 #container nav ul {
@@ -239,7 +256,7 @@ time {
 #container main section#home ul li aside,
 #container main article aside {
   margin: 0.5em 0;
-  font-family: "Ruda", sans-serif;
+  font-family: category, sans-serif;
   color: #909090;
   font-size: 0.8em;
 }
@@ -457,12 +474,12 @@ a {
 }
 
 a:hover {
-  color: #fbcf0b;
+  color: #d37e04;
   text-decoration: none;
 body {
   margin: 0;
   padding: 0;
   overflow-x: hidden;
-  font-family: "Roboto Slab", serif;
+  font-family: inter;
   color: #333333;
 }
