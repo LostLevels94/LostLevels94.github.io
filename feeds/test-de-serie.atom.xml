@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Lycéens au cinéma - Test de série</title><link href="/" rel="alternate"></link><link href="/feeds/test-de-serie.atom.xml" rel="self"></link><id>/</id><updated>2025-06-03T00:00:00+02:00</updated><entry><title>test</title><link href="/test.html" rel="alternate"></link><published>2025-06-03T00:00:00+02:00</published><updated>2025-06-03T00:00:00+02:00</updated><author><name>Samuel</name></author><id>tag:None,2025-06-03:/test.html</id><content type="html">&lt;h1&gt;Bonjour1&lt;/h1&gt;
+&lt;p&gt;kozklk&lt;/p&gt;
+&lt;p&gt;iosifmk
+sdkljgkgk&lt;/p&gt;
+&lt;h1&gt;Bonjour2&lt;/h1&gt;
+&lt;p&gt;dosofko
+klsfk
+fmssfl&lt;/p&gt;</content><category term="Test de série"></category></entry></feed>
