@@ -29,10 +29,13 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = False
-PLUGINS = [
-    # autres plugins
-    'series',
-]
+PLUGINS = ['series']
+
+SERIES_START_TEXT = "Début"
+SERIES_CONTINUE_TEXT = "Suite"
+SERIES_CONCLUDE_TEXT = "Fin"
+SERIES_INDEX_SAVE_AS = 'series/series_index.html'
+SERIES_INDEX_URL = 'series/series_index.html'
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
