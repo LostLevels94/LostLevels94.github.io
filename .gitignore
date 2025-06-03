@@ -1,3 +1,4 @@
 .venv
 .idea
 woff2
+_pelican/__pycache__
