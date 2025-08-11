@@ -1,5 +1,5 @@
 AUTHOR = 'Samuel'
-SITENAME = 'Lycéens au cinéma'
+SITENAME = 'LostLevels94'
 SITEURL = ""
 
 PATH = "content"
@@ -18,7 +18,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Cité scolaire Hector Berlioz", "http://www.cite-scolaire-berlioz.org/"),
+    ("Garambrogne", "http://blog.garambrogne.net/"),
     ("CNC", "https://www.cnc.fr/"),
 )
 
