@@ -7,7 +7,7 @@ Category: Informatique
 ### Ordinateur
 
 #### Linux en général
-Linux est un système d'exploitation open-source avec une base Unix, créé par Linux Torvalds en 1991. C'est l'OS le plus utilisé dans le monde, pour les serveurs par exemple, mais aussi en desktop.
+*Linux est un système d'exploitation open-source avec une base Unix, créé par Linux Torvalds en 1991. C'est l'OS le plus utilisé dans le monde, pour les serveurs par exemple, mais aussi en desktop.*
 
 * Numerama : [Voir l'article](https://www.numerama.com/tech/723035-comment-essayer-linux-sans-toucher-a-son-installation-windows.html)
 * Le Monde: [Voir l'article](https://www.lemonde.fr/pixels/article/2015/08/04/cinq-systemes-d-exploitation-pour-snober-windows-10-et-mac-os_4710726_4408996.html)
@@ -15,13 +15,13 @@ Linux est un système d'exploitation open-source avec une base Unix, créé par 
 * 01Net : [Voir l'article](https://www.cafeyn.co/fr/article/62838/01net/2025-03-12/linux-los-du-peuple)
 
 #### Linux Mint
-Linux Mint est un OS libre basé sur Ubuntu [Voir l'article](noyau Linux). Il se caractérise par une grande compatibilité logicielle, ainsi qu'une interface utilisateur "user-friendly" [Voir l'article](notamment grâce à sa ressemblance à Windows).
+*Linux Mint est un OS libre basé sur Ubuntu (noyau Linux). Il se caractérise par une grande compatibilité logicielle, ainsi qu'une interface utilisateur "user-friendly" (notamment grâce à sa ressemblance à Windows).*
 
 * Geek Junior : [Voir l'article](https://www.geekjunior.fr/comment-passer-a-linux-numero-avril-magazine-geek-junior-63335/)
 * 01Net : [Voir l'article](https://www.cafeyn.co/fr/article/b5f79/01net-hors-serie/2024-02-08/bien-debuter-avec-linux-mint)
 
 #### Ubuntu
-Ubuntu est une distribution Linux les plus populaires. Elle est basée sur Debian.
+*Ubuntu est une distribution Linux les plus populaires. Elle est basée sur Debian.*
 
 * Reporterre : [Voir l'article](https://reporterre.net/Halte-a-l-obsolescence-Les-vieux-ordinateurs-reprennent-vie-avec-le-systeme)
 * 01Net : [Voir l'article](https://www.cafeyn.co/fr/article/52a6b/01net-hors-serie/2023-08-11/de-windows-a-ubuntu-mode-demploi)
@@ -32,7 +32,7 @@ Ubuntu est une distribution Linux les plus populaires. Elle est basée sur Debia
 
 #### Tails
 
-Tails est une distribution Linux axée sur la confidentialité renforcée, avec Tor comme navigateur par défaut.
+*Tails est une distribution Linux axée sur la confidentialité renforcée, avec Tor comme navigateur par défaut.*
 
 * Le Monde : [Voir l'article](https://www.lemonde.fr/pixels/article/2015/02/12/source-sure-une-plate-forme-securisee-pour-lanceurs-d-alerte_4574820_4408996.html)
 * Journal du Freenaute : [Voir l'article](https://www.journaldufreenaute.fr/tails-linux-naviguer-anonymement/)
@@ -41,7 +41,7 @@ Tails est une distribution Linux axée sur la confidentialité renforcée, avec 
 * Malekal : [Voir l'article](https://www.malekal.com/tails-os-contre-censure-anonymat/)
 
 #### ZorinOS
-ZorinOS est une distribution basée sur Ubuntu. Très user-friendly, elle supporte nativement les logiciels des dépôts APT, les AppImages, ainsi que les exécutables Windows grâce à la surcouche Wine.
+*ZorinOS est une distribution basée sur Ubuntu. Très user-friendly, elle supporte nativement les logiciels des dépôts APT, les AppImages, ainsi que les exécutables Windows grâce à la surcouche [Wine](https://winehq.org).*
 
 * HFrance : [Voir l'article](https://www.hfrance.fr/de-windows-a-la-liberte-zorin-os-18-une-migration-linux-sans-effort.html)
 * Linux Console : [Voir l'article](https://fr.linux-console.net/?p=12756)
@@ -50,7 +50,7 @@ ZorinOS est une distribution basée sur Ubuntu. Très user-friendly, elle suppor
 * GoodTech : [Voir l'article](https://goodtech.info/zorinos-nouvelle-version-nouveautes/)
 
 #### Bazzite
-Bazzite est une distribution récente basée sur Fedora conçue pour le gaming, cependant déjà assez populaire, en raison de sa compatibilité handhelds.
+*Bazzite est une distribution récente basée sur Fedora conçue pour le gaming, cependant déjà assez populaire, en raison de sa compatibilité avec les  handhelds.*
 
  * LinuxFR : [Voir l'article](https://linuxfr.org/users/xenom/journaux/petit-retour-d-experience-sur-bazzite)
  * HFrance : [Voir l'article](https://www.hfrance.fr/5-raisons-dutiliser-bazzite-plutot-que-windows-sur-votre-pc-de-jeu.html)
@@ -58,7 +58,7 @@ Bazzite est une distribution récente basée sur Fedora conçue pour le gaming, 
  * Tremplin Numérique : [Voir l'article](https://www.tremplin-numerique.org/5-raisons-de-remplacer-steamos-par-bazzite-et-3-raisons-de-ne-pas)
 
 #### VanillaOS
-VanillaOS est une distribution atomique très sécurisée basée sur Ubuntu.
+*VanillaOS est une distribution atomique très sécurisée basée sur Ubuntu.*
 
  * L'Informaticien : [Voir l'article](https://www.cafeyn.co/fr/article/30abb/linformaticien/2023-04-14/une-nouvelle-approche-de-la-securite-avec-vanilla-os)
  * ZDNet : [Voir l'article](https://www.zdnet.fr/guide-achat/vanilla-os-propose-une-nouvelle-approche-de-la-securite-sur-linux-39952260.htm)
@@ -69,7 +69,7 @@ VanillaOS est une distribution atomique très sécurisée basée sur Ubuntu.
  * Le Monde : [Voir l'article](https://www.lemonde.fr/pixels/article/2022/11/12/un-smartphone-android-sans-google-c-est-possible-qu-en-pensent-les-utilisateurs_6149559_4408996.html)
 
 #### iodéOS
-iodéOS est un OS Android "sans" Google. Il et open-source et a été développé par la startup française Iodé.
+*iodéOS est un OS Android "sans" Google. Il et open-source et a été développé par la startup française Iodé.*
 
 * Challenges : [Voir l'article](https://www.challenges.fr/entreprise/tech-numerique/smartphone-la-solution-francaise-anti-tracage-publicitaire_739240)
 * iGen : [Voir l'article](https://www.igen.fr/android/2025/01/eos-et-iode-les-deux-android-francais-qui-tracent-leur-route-sans-google-148225)
@@ -81,7 +81,7 @@ iodéOS est un OS Android "sans" Google. Il et open-source et a été développ�
 * Le Parisien : [Voir l'article](https://www.leparisien.fr/high-tech/le-parisien-a-teste-les-smartphones-anti-trackers-publicitaires-de-iode-09-12-2021-CHLDID34ORGNVGE7G7U2LB7TQQ.php)
 
 #### /e/OS
-/e/OS est un autre OS Android "dégooglisé" créé par le français Gaël Duval, à l'origine de Linux Mandrake.
+*/e/OS est un autre OS Android "dégooglisé" créé par le français Gaël Duval, à l'origine de Linux Mandrake.*
 
 * Challenges : [Voir l'article](https://www.challenges.fr/vie-entreprise/club-entrepreneurs/murena-le-logiciel-d-exploitation-qui-bloque-les-pisteurs-sur-smartphone_852720)
 * Wired : [Voir l'article](https://www.wired.com/story/e-os-review/)
@@ -95,7 +95,7 @@ iodéOS est un OS Android "sans" Google. Il et open-source et a été développ�
 * 01Net : [Voir l'article](https://www.cafeyn.co/fr/article/a51b4/01net/2024-01-24/murena-eos-un-smarthone-android-sans-fuites-de-donnees)
 
 #### GrapheneOS
-Graphene OS est un autre OS dégooglisé souvent considéré comme le plus sécurisé. Il s'appelait d'ailleurs autrefois Android Hardening.
+*Graphene OS est un autre OS dégooglisé souvent considéré comme le plus sécurisé. Il s'appelait d'ailleurs autrefois Android Hardening.*
 
 * Android Authority : [Voir l'article](https://www.androidauthority.com/grapheneos-3287030/)
 * DroidSoft : [Voir l'article](https://droidsoft.fr/2025/04/17/grapheneos-un-systeme-dexploitation-android-pour-google-pixel-mais-sans-google/)
@@ -106,6 +106,7 @@ Graphene OS est un autre OS dégooglisé souvent considéré comme le plus sécu
 # Logiciels libres
 
 ## ONLYOFFICE
+ONLYOFFICe est une alternative gratuite et libre à Microsoft Office. Elle peut-être utilisée hébergée (DocSpace) ou via un logiciel de bureau (Desktop Editors)
 
 * Le Figaro : [Voir l'article](https://www.lefigaro.fr/lyon/a-lyon-les-ecologistes-abandonnent-microsoft-pour-renforcer-la-souverainete-technologique-des-services-publics-20250625)
 * BFMTV : [Voir l'article](https://www.bfmtv.com/lyon/la-mairie-de-lyon-se-separe-de-la-suite-microsoft-office-au-titre-de-sa-souverainete-numerique_AN-202506240691.html)

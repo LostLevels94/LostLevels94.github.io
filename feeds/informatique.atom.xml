@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>LostLevels94 - Informatique</title><link href="/" rel="alternate"/><link href="/feeds/informatique.atom.xml" rel="self"/><id>/</id><updated>2025-08-11T14:20:00+02:00</updated><entry><title>Dossier de presse sur le libre</title><link href="/dossier-de-presse-sur-le-libre.html" rel="alternate"/><published>2025-08-11T14:20:00+02:00</published><updated>2025-08-11T14:20:00+02:00</updated><author><name>Samuel</name></author><id>tag:None,2025-08-11:/dossier-de-presse-sur-le-libre.html</id><summary type="html">&lt;h2&gt;Systèmes d'exploitation&lt;/h2&gt;
 &lt;h3&gt;Ordinateur&lt;/h3&gt;
 &lt;h4&gt;Linux en général&lt;/h4&gt;
-&lt;p&gt;Linux est un système d'exploitation open-source avec une base Unix, créé par Linux Torvalds en 1991. C'est l'OS le plus utilisé dans le monde, pour les serveurs par exemple, mais aussi en desktop.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Linux est un système d'exploitation open-source avec une base Unix, créé par Linux Torvalds en 1991. C'est l'OS le plus utilisé dans le monde, pour les serveurs par exemple, mais aussi en desktop.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Numerama : &lt;a href="https://www.numerama.com/tech/723035-comment-essayer-linux-sans-toucher-a-son-installation-windows.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Le Monde: &lt;a href="https://www.lemonde.fr/pixels/article/2015/08/04/cinq-systemes-d-exploitation-pour-snober-windows-10-et-mac-os_4710726_4408996.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -10,7 +10,7 @@
 &lt;li&gt;01Net …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h2&gt;Systèmes d'exploitation&lt;/h2&gt;
 &lt;h3&gt;Ordinateur&lt;/h3&gt;
 &lt;h4&gt;Linux en général&lt;/h4&gt;
-&lt;p&gt;Linux est un système d'exploitation open-source avec une base Unix, créé par Linux Torvalds en 1991. C'est l'OS le plus utilisé dans le monde, pour les serveurs par exemple, mais aussi en desktop.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Linux est un système d'exploitation open-source avec une base Unix, créé par Linux Torvalds en 1991. C'est l'OS le plus utilisé dans le monde, pour les serveurs par exemple, mais aussi en desktop.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Numerama : &lt;a href="https://www.numerama.com/tech/723035-comment-essayer-linux-sans-toucher-a-son-installation-windows.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Le Monde: &lt;a href="https://www.lemonde.fr/pixels/article/2015/08/04/cinq-systemes-d-exploitation-pour-snober-windows-10-et-mac-os_4710726_4408996.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -18,13 +18,13 @@
 &lt;li&gt;01Net : &lt;a href="https://www.cafeyn.co/fr/article/62838/01net/2025-03-12/linux-los-du-peuple"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Linux Mint&lt;/h4&gt;
-&lt;p&gt;Linux Mint est un OS libre basé sur Ubuntu &lt;a href="noyau Linux"&gt;Voir l'article&lt;/a&gt;. Il se caractérise par une grande compatibilité logicielle, ainsi qu'une interface utilisateur "user-friendly" &lt;a href="notamment grâce à sa ressemblance à Windows"&gt;Voir l'article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Linux Mint est un OS libre basé sur Ubuntu (noyau Linux). Il se caractérise par une grande compatibilité logicielle, ainsi qu'une interface utilisateur "user-friendly" (notamment grâce à sa ressemblance à Windows).&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Geek Junior : &lt;a href="https://www.geekjunior.fr/comment-passer-a-linux-numero-avril-magazine-geek-junior-63335/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;01Net : &lt;a href="https://www.cafeyn.co/fr/article/b5f79/01net-hors-serie/2024-02-08/bien-debuter-avec-linux-mint"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Ubuntu&lt;/h4&gt;
-&lt;p&gt;Ubuntu est une distribution Linux les plus populaires. Elle est basée sur Debian.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Ubuntu est une distribution Linux les plus populaires. Elle est basée sur Debian.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Reporterre : &lt;a href="https://reporterre.net/Halte-a-l-obsolescence-Les-vieux-ordinateurs-reprennent-vie-avec-le-systeme"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;01Net : &lt;a href="https://www.cafeyn.co/fr/article/52a6b/01net-hors-serie/2023-08-11/de-windows-a-ubuntu-mode-demploi"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -34,7 +34,7 @@
 &lt;li&gt;JustGeek : &lt;a href="https://www.justgeek.fr/guide-pour-passer-de-windows-a-linux-39870/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Tails&lt;/h4&gt;
-&lt;p&gt;Tails est une distribution Linux axée sur la confidentialité renforcée, avec Tor comme navigateur par défaut.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tails est une distribution Linux axée sur la confidentialité renforcée, avec Tor comme navigateur par défaut.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Le Monde : &lt;a href="https://www.lemonde.fr/pixels/article/2015/02/12/source-sure-une-plate-forme-securisee-pour-lanceurs-d-alerte_4574820_4408996.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Journal du Freenaute : &lt;a href="https://www.journaldufreenaute.fr/tails-linux-naviguer-anonymement/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -43,7 +43,7 @@
 &lt;li&gt;Malekal : &lt;a href="https://www.malekal.com/tails-os-contre-censure-anonymat/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;ZorinOS&lt;/h4&gt;
-&lt;p&gt;ZorinOS est une distribution basée sur Ubuntu. Très user-friendly, elle supporte nativement les logiciels des dépôts APT, les AppImages, ainsi que les exécutables Windows grâce à la surcouche Wine.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;ZorinOS est une distribution basée sur Ubuntu. Très user-friendly, elle supporte nativement les logiciels des dépôts APT, les AppImages, ainsi que les exécutables Windows grâce à la surcouche &lt;a href="https://winehq.org"&gt;Wine&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;HFrance : &lt;a href="https://www.hfrance.fr/de-windows-a-la-liberte-zorin-os-18-une-migration-linux-sans-effort.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Linux Console : &lt;a href="https://fr.linux-console.net/?p=12756"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -52,7 +52,7 @@
 &lt;li&gt;GoodTech : &lt;a href="https://goodtech.info/zorinos-nouvelle-version-nouveautes/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;Bazzite&lt;/h4&gt;
-&lt;p&gt;Bazzite est une distribution récente basée sur Fedora conçue pour le gaming, cependant déjà assez populaire, en raison de sa compatibilité handhelds.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Bazzite est une distribution récente basée sur Fedora conçue pour le gaming, cependant déjà assez populaire, en raison de sa compatibilité avec les  handhelds.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;LinuxFR : &lt;a href="https://linuxfr.org/users/xenom/journaux/petit-retour-d-experience-sur-bazzite"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;HFrance : &lt;a href="https://www.hfrance.fr/5-raisons-dutiliser-bazzite-plutot-que-windows-sur-votre-pc-de-jeu.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -60,7 +60,7 @@
 &lt;li&gt;Tremplin Numérique : &lt;a href="https://www.tremplin-numerique.org/5-raisons-de-remplacer-steamos-par-bazzite-et-3-raisons-de-ne-pas"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;VanillaOS&lt;/h4&gt;
-&lt;p&gt;VanillaOS est une distribution atomique très sécurisée basée sur Ubuntu.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;VanillaOS est une distribution atomique très sécurisée basée sur Ubuntu.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;L'Informaticien : &lt;a href="https://www.cafeyn.co/fr/article/30abb/linformaticien/2023-04-14/une-nouvelle-approche-de-la-securite-avec-vanilla-os"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;ZDNet : &lt;a href="https://www.zdnet.fr/guide-achat/vanilla-os-propose-une-nouvelle-approche-de-la-securite-sur-linux-39952260.htm"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -72,7 +72,7 @@
 &lt;li&gt;Le Monde : &lt;a href="https://www.lemonde.fr/pixels/article/2022/11/12/un-smartphone-android-sans-google-c-est-possible-qu-en-pensent-les-utilisateurs_6149559_4408996.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;iodéOS&lt;/h4&gt;
-&lt;p&gt;iodéOS est un OS Android "sans" Google. Il et open-source et a été développé par la startup française Iodé.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;iodéOS est un OS Android "sans" Google. Il et open-source et a été développé par la startup française Iodé.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Challenges : &lt;a href="https://www.challenges.fr/entreprise/tech-numerique/smartphone-la-solution-francaise-anti-tracage-publicitaire_739240"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;iGen : &lt;a href="https://www.igen.fr/android/2025/01/eos-et-iode-les-deux-android-francais-qui-tracent-leur-route-sans-google-148225"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -84,7 +84,7 @@
 &lt;li&gt;Le Parisien : &lt;a href="https://www.leparisien.fr/high-tech/le-parisien-a-teste-les-smartphones-anti-trackers-publicitaires-de-iode-09-12-2021-CHLDID34ORGNVGE7G7U2LB7TQQ.php"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;/e/OS&lt;/h4&gt;
-&lt;p&gt;/e/OS est un autre OS Android "dégooglisé" créé par le français Gaël Duval, à l'origine de Linux Mandrake.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;/e/OS est un autre OS Android "dégooglisé" créé par le français Gaël Duval, à l'origine de Linux Mandrake.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Challenges : &lt;a href="https://www.challenges.fr/vie-entreprise/club-entrepreneurs/murena-le-logiciel-d-exploitation-qui-bloque-les-pisteurs-sur-smartphone_852720"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Wired : &lt;a href="https://www.wired.com/story/e-os-review/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -98,7 +98,7 @@
 &lt;li&gt;01Net : &lt;a href="https://www.cafeyn.co/fr/article/a51b4/01net/2024-01-24/murena-eos-un-smarthone-android-sans-fuites-de-donnees"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;GrapheneOS&lt;/h4&gt;
-&lt;p&gt;Graphene OS est un autre OS dégooglisé souvent considéré comme le plus sécurisé. Il s'appelait d'ailleurs autrefois Android Hardening.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Graphene OS est un autre OS dégooglisé souvent considéré comme le plus sécurisé. Il s'appelait d'ailleurs autrefois Android Hardening.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Android Authority : &lt;a href="https://www.androidauthority.com/grapheneos-3287030/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;DroidSoft : &lt;a href="https://droidsoft.fr/2025/04/17/grapheneos-un-systeme-dexploitation-android-pour-google-pixel-mais-sans-google/"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
@@ -108,6 +108,7 @@
 &lt;/ul&gt;
 &lt;h1&gt;Logiciels libres&lt;/h1&gt;
 &lt;h2&gt;ONLYOFFICE&lt;/h2&gt;
+&lt;p&gt;ONLYOFFICe est une alternative gratuite et libre à Microsoft Office. Elle peut-être utilisée hébergée (DocSpace) ou via un logiciel de bureau (Desktop Editors)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Le Figaro : &lt;a href="https://www.lefigaro.fr/lyon/a-lyon-les-ecologistes-abandonnent-microsoft-pour-renforcer-la-souverainete-technologique-des-services-publics-20250625"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;BFMTV : &lt;a href="https://www.bfmtv.com/lyon/la-mairie-de-lyon-se-separe-de-la-suite-microsoft-office-au-titre-de-sa-souverainete-numerique_AN-202506240691.html"&gt;Voir l'article&lt;/a&gt;&lt;/li&gt;
