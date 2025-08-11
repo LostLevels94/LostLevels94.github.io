@@ -1,8 +1,6 @@
----
-title:  Dossier de presse : les alternatives logicielles libres, FOSS ou éthiques vis-à-vis du grand public
-category : Informatique
-date : 2025-08-11 14:13
----
+Title: Dossier de presse sur le libre
+Date: 2025-08-11 14:20
+Category: Informatique
 
 ## Systèmes d'exploitation
 
