@@ -19,7 +19,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Garambrogne", "http://blog.garambrogne.net/"),
-    ("CNC", "https://www.cnc.fr/"),
+    ("Reporterre", "https://www.reporterre.net/"),
 )
 
 # Social widget
@@ -27,6 +27,14 @@ SOCIAL = (
     ("You can add links in your config file", "#"),
     ("Another social link", "#"),
 )
+# Favicon
+STATIC_PATHS = [
+    "static/favicon.ico",
+]
+
+EXTRA_PATH_METADATA = {
+    "static/favicon.ico": {"path": "favicon.ico"},
+}
 
 DEFAULT_PAGINATION = False
 PLUGINS = ['series']
