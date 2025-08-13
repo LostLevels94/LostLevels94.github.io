@@ -106,7 +106,19 @@ Category: Informatique
 # Logiciels libres
 
 ## ONLYOFFICE
-ONLYOFFICe est une alternative gratuite et libre à Microsoft Office. Elle peut-être utilisée hébergée (DocSpace) ou via un logiciel de bureau (Desktop Editors)
+ONLYOFFICE est une alternative gratuite et libre à Microsoft Office. Elle peut-être utilisée hébergée (DocSpace) ou via un logiciel de bureau (Desktop Editors)
 
 * Le Figaro : [Voir l'article](https://www.lefigaro.fr/lyon/a-lyon-les-ecologistes-abandonnent-microsoft-pour-renforcer-la-souverainete-technologique-des-services-publics-20250625)
 * BFMTV : [Voir l'article](https://www.bfmtv.com/lyon/la-mairie-de-lyon-se-separe-de-la-suite-microsoft-office-au-titre-de-sa-souverainete-numerique_AN-202506240691.html)
+
+## VLC
+*VLC est un lecteur multimédia open-source, permettant la lecture de différents types de contenus, tels que des musiques, des vidéos, des DVD etc. Il donne également à l'utilisateur la possibilité de convertir, diffuser, extraire etc.*
+
+* Capital : [Voir l'article](https://www.capital.fr/entreprises-marches/vlc-lhistoire-extraordinaire-du-logiciel-francais-le-plus-telecharge-au-monde-1361858)
+* Le Point :[Voir l'article](https://www.lepoint.fr/high-tech-internet/jean-baptiste-kempf-vlc-la-success-story-d-un-entrepreneur-francais-23-10-2017-2166586_47.php)
+* Le Monde : [Voir l'article](https://www.lemonde.fr/pixels/article/2019/01/28/l-irresistible-ascension-du-lecteur-video-vlc-une-revolution-francaise_5415762_4408996.html)
+* Le Parisien : [Voir l'article](https://www.leparisien.fr/high-tech/vlc-fete-ses-3-milliards-de-telechargements-retour-sur-une-success-story-francaise-10-01-2019-7985283.php)
+* Libération : [Voir l'article](https://www.leparisien.fr/high-tech/vlc-fete-ses-3-milliards-de-telechargements-retour-sur-une-success-story-francaise-10-01-2019-7985283.php)
+* Les Echos : [Voir l'article](https://www.lesechos.fr/tech-medias/hightech/les-petits-genies-francais-derriere-le-logiciel-vlc-1174837)
+* BFMTV : [Voir l'article](https://www.bfmtv.com/tech/vie-numerique/5-milliards-de-telechargements-comment-vlc-est-devenu-le-logiciel-francais-le-plus-utilise-au-monde_AV-202404090354.html)
+* Les Numériques : [Voir l'article](https://www.lesnumeriques.com/appli-logiciel/interview-tout-savoir-sur-vlc-logiciel-francais-plus-utilise-a1777.html)
