@@ -1,6 +1,6 @@
 AUTHOR = 'Samuel'
-SITENAME = 'LostLevels94'
-SITEURL = ""
+SITENAME = 'Espace de Sam'
+SITEURL = "sam.teamfuyu.fr"
 
 PATH = "content"
 THEME = "themes/sam"
