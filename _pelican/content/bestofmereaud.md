@@ -26,5 +26,7 @@ date: 2025-10-02 15:45
 * *(Quelqu'un demande à ouvrir la fenêtre)* :
 
 	>On parle de faire la guerre avec la Russie, mais on va envoyer qui ?
+
 * 	>J'vous rappelle qu'au bac, les mots "création" et "apparition" sont interdits car ils sont à connotation religieuse !
+
 * 	>Ah dites donc ! Vous êtes torturés de la tête !
