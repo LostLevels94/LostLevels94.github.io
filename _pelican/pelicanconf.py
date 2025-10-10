@@ -1,5 +1,5 @@
 AUTHOR = "TeamFuyu"
-SITENAME = "Blog"
+SITENAME = "Fuyu Blog"
 SITEURL = "sam.teamfuyu.fr"
 
 PATH = "content"
