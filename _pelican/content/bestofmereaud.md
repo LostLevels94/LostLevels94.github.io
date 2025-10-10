@@ -1,8 +1,10 @@
 ---
-title: Best Of Mereaud
+title: Le meilleur de D. Mereaud
 category: profs
 date: 2025-10-02 15:45
 ---
+
+Professeur de SVT au lycée, M. MEREAUD enseigne depuis 33 ans dans un établissement en région parisienne. Nous sommes allés enquêter sur ses propos, jugés parfois déplaçés.
 
 # Dans la vie...
 * 	>Dans la vie, on naît seul, on meurt seul !
