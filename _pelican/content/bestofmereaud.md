@@ -38,3 +38,8 @@ Professeur de SVT au lycée, M. MEREAUD enseigne depuis 33 ans dans un établiss
 * 	>Vous êtes prêts pour la maternelle, le centre aéré, vous !
 * 	>Ici, y en a un qui sait et 32 qui savent pas !
 * 	>Ah dites donc ! Va falloir arrêter cette arrogance ! Moi ça fait 33 ans que je fais la même chose, donc vous allez pas m'apprendre mon métier !
+*   >On n'est pas à LEROY-MERLIN un samedi matin !
+*   _Des élèves marchent lentement dans le couloir, et lui, derrière, est agacé :_
+    
+    >Vous savez, on n'a pas installé de radars, dans les couloirs !
+(Bon j'avoue que celle-là est drôle et pas méchante!)
