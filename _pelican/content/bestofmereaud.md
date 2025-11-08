@@ -44,3 +44,7 @@ Professeur de SVT au lycée, M. MEREAUD enseigne depuis 33 ans dans un établiss
     >Vous savez, on n'a pas installé de radars, dans les couloirs !
 
 (Bon j'avoue que celle-là est drôle et pas méchante!)
+
+* _(À un élève posant une question légitime sur des différences de mesures notables dans un document)_ :
+
+    >Quoi encore ??? Eh ben, c'est juste des différences liées à la précision des mesures ! Ah dites donc ! Je commençais à avoir de l'estime pour vous ; je me disais : tiens, çui là il a l'air de comprendre ! Eh bien tout vient de s'effondrer !
