@@ -42,4 +42,5 @@ Professeur de SVT au lycée, M. MEREAUD enseigne depuis 33 ans dans un établiss
 *   _Des élèves marchent lentement dans le couloir, et lui, derrière, est agacé :_
     
     >Vous savez, on n'a pas installé de radars, dans les couloirs !
+
 (Bon j'avoue que celle-là est drôle et pas méchante!)
